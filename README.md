@@ -4,10 +4,10 @@
 React • TypeScript • C# • Python • Docker • Linux (Ubuntu)
 
 #### 🔭 Current projects (4)
-- **Jarvics** – [short description]  
-- **Jannt Al-Hasan** – [short description]  
-- **Renap Documentation** – [short description]  
-- **Kanoon** – [short description]
+- **Jarvics** 
+- **Jannt Al-Hasan** 
+- **Renap Documentation** 
+- **Kanoon** 
 
 > Not looking to collaborate at the moment.
 
