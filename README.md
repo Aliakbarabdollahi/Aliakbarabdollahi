@@ -1,16 +1,24 @@
-## Hi there 👋
+### 👋 Hi, I'm Aliakbar Abdollahi
 
-<!--
-**Aliakbarabdollahi/Aliakbarabdollahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 💻 Tech Stack
+React • TypeScript • C# • Python • Docker • Linux (Ubuntu)
 
-Here are some ideas to get you started:
+#### 🔭 Current projects (4)
+- **Jarvics** – [short description]  
+- **Jannt Al-Hasan** – [short description]  
+- **Renap Documentation** – [short description]  
+- **Kanoon** – [short description]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Not looking to collaborate at the moment.
+
+#### 🌱 Currently deepening
+React, TS, C#, Python, Linux, Docker (always learning)
+
+#### 💬 Ask me about
+React, TypeScript, C#, Python, Linux, Docker
+
+#### 📫 Telegram: [@Aliakbarabdollahi](https://t.me/Aliakbarabdollahi)
+
+#### ⚡ Fun fact
+- Long-time gamer 🎮  
+- Studied at **Sharif University of Technology** (one of the top universities in Iran)
